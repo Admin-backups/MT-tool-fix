@@ -1,6 +1,6 @@
 # MT-tool-fix
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/Admin-backups/MT-tool-fix/master/index2.lua
+wget https://raw.githubusercontent.com/Admin-backups/MT-tool-fix/master/index2.lua
 
 Misstar tools 好像不能用了，提供一个临时解决办法。
 
