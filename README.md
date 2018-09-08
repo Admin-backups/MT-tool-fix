@@ -1,5 +1,7 @@
 # MT-tool-fix
 
+wget -N --no-check-certificate https://raw.githubusercontent.com/Admin-backups/MT-tool-fix/master/index2.lua
+
 Misstar tools 好像不能用了，提供一个临时解决办法。
 
 开发版升级到最新后 2.23.64 ，点击MT工具箱会提示出错 。。。
